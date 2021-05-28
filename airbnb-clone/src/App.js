@@ -1,6 +1,6 @@
 import './App.css';
-import Banner from './Banner';
-import Header from './Header';
+import Footer from './Footer';
+ import Header from './Header';
 import Home from './Home';
 
 function App() {
@@ -8,7 +8,8 @@ function App() {
     <div className="App">
       <Header />
       <Home />
-      <Banner />
+      <Footer />
+      
 
     { /* Home */}
         { /* Header */}
